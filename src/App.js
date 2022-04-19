@@ -19,7 +19,7 @@ const App = () => {
 
   return (
     <Container maxWidth="lg">
-      <AppBar className={classes.appBar} position="static"  style={{background: '#246EE9', color:'greenyellow'}}>
+      <AppBar className={classes.appBar} position="static"  style={{background: '#434543', color:'greenyellow'}}>
         <Typography className={classes.heading} variant="h2" align="center">90's Stories</Typography>
       </AppBar>
       <Grow in>
